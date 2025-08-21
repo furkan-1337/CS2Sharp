@@ -1,6 +1,8 @@
 # CS2Sharp
 Counter-Strike 2, SDK Generator based on [/a2x/cs2-dumper](https://github.com/a2x/cs2-dumper)
 
+**⚠️ For educational purposes only. This project is intended to demonstrate SDK generation concepts and should not be used for cheating or modifying the game.**
+
 ## Features
 - Parses game module schemas to generate C# SDK code.  
 - Converts game types to appropriate C# types.  
